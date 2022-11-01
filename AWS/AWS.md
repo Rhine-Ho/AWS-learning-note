@@ -17,5 +17,12 @@ Server include:
 - Data base
 - And lot of stuff,like runing your web,PHP...etc
 - But most importantly is your code.
+> your code will creat opportunity.
+
+But we have responsive for all off it.
 
 
+
+specific security from the server
+
+Kind of like EDA(Electronic design automation) funtion.
