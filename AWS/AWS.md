@@ -38,3 +38,4 @@ Structure of AWS  got 3 [lambda](https://docs.aws.amazon.com/lambda/latest/dg/we
 user --reques--API---lambda(read data)---DV table
            third comprehend(value data)
 ```
+If somehow one of the lambda is black out.still got one can run the all system. (like P2P)
