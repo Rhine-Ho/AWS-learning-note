@@ -30,3 +30,11 @@ Kind of like EDA(Electronic design automation) funtion.
 API WAP
 [read](https://www.kaspersky.com/resource-center/definitions/wep-vs-wpa)
 
+amazon [comprehend](https://docs.aws.amazon.com/comprehend/latest/APIReference/API_StopTrainingEntityRecognizer.html) internal server error
+
+Structure of AWS  got 3 [lambda](https://docs.aws.amazon.com/lambda/latest/dg/welcome.html) function
+```
+            second lambda here (add data)
+user --reques--API---lambda(read data)---DV table
+           third comprehend(value data)
+```
