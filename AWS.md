@@ -1,4 +1,7 @@
-#AWS
+<h1 align="center">AWS</h1>
+<h3 align="center">AWS Step Funtions is a low-code, visual workflow service that developers use to build distributed applications, automate IT and business processes, and build data and machine learning pipelines with AWS services, parallelization</h3>
+
+---
 
 ### Serverless 101.
 
@@ -8,11 +11,11 @@ View more [CS50](https://www.edx.org/course/introduction-computer-science-harvar
 - Live demo
 - Why learn serverless
 ---
-
+### Web application
 First of all we need a server.
 Server include:
 - Firewall
-- Server(IIA,patch)
+- Web Server(IIS、Apache、LiteSpeed、Nginx、lighttpd)
 - Data base
 - and lot of stuff.(PHP)
 
