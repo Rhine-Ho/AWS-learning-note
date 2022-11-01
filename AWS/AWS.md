@@ -26,3 +26,7 @@ But we have responsive for all off it.
 specific security from the server
 
 Kind of like EDA(Electronic design automation) funtion.
+
+API WAP
+[read](https://www.kaspersky.com/resource-center/definitions/wep-vs-wpa)
+
