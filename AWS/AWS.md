@@ -15,13 +15,7 @@ Server include:
 - Firewall
 - Web Server(IIS、Apache、LiteSpeed、Nginx、lighttpd)
 - Data base
-- and lot of stuff.(PHP)
+- And lot of stuff,like runing your web,PHP...etc
+- But most importantly is your code.
 
 
-- Security,identity,& compliance
-- Serverless
-- Web & Mobile Apps
-- containers
-- storage
-- Database
-- Compute
