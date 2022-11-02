@@ -5,12 +5,13 @@
 
 
 - What is serverless
-> Companies need help modernizing their applications.
->> Serverless is a highly sought after skillset in the market today.
 
 - Live demo
 >
 - Why learn serverless
+> Companies need help modernizing their applications.
+>> Serverless is a highly sought after skillset in the market today.
+>>> Put simply:There's good jobs in serverless!
 ---
 ### Web application
 First of all we need a server.
